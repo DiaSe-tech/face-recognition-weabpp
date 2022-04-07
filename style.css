@@ -1,0 +1,17 @@
+body{
+    color:black;
+    background: linear-gradient(#48cae4 0%, #ade8f4 100%);
+
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
+.name_objects,#result_name,#result_accuracy{
+    color:darkslategrey;
+}
